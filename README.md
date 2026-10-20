@@ -7,7 +7,7 @@
 Building practical AI applications and learning by shipping real projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-81as22)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditty10507-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditty10507)
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya10507-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditty10507)
 
 </div>
 
