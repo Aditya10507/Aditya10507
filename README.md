@@ -58,12 +58,12 @@ A Retrieval-Augmented Generation project that helps users explore video content 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditty10507&show_icons=true&hide_border=true&rank_icon=github" alt="Aditya's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditty10507&layout=compact&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya10507&show_icons=true&hide_border=true&rank_icon=github" alt="Aditya's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10507&layout=compact&hide_border=true" alt="Most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Aditty10507&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Aditya10507&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
