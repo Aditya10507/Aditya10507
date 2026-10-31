@@ -1,71 +1,77 @@
 # Hi, I'm Aditya Singh 👋
 
-**AI & LLM Engineer** · Final-year B.Tech (Data Science) · Hyderabad, India
+### 🤖 Aspiring AI Engineer | Python · GenAI · RAG · AI Agents
 
-I build reliable, user-focused AI products: production-oriented LLM applications, RAG systems, and agentic workflows. My work follows three principles: **safe by default, honest about limits, measurable throughout.**
+*Building practical AI applications and learning by shipping real projects.*
 
-🟢 **Open to AI Engineer internships.**
+[![View My Portfolio](https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-6E40C9?style=for-the-badge&logoColor=white)](https://portfolio-frontend-orpin-one.vercel.app/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-frontend-orpin-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-81as22)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaws10507@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-81as22) [![GitHub](https://img.shields.io/badge/GitHub-Aditya10507-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya10507) [![Followers](https://img.shields.io/github/followers/Aditya10507?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0F766E)](https://github.com/Aditya10507?tab=followers)
 
 ---
 
-## 💼 Experience
+## 🌐 My Portfolio
 
-**AI Technical Intern, Rajora.ai** (2026 – present)
-Building **AION**, a desktop AI agent that controls the operating system through natural language, with a FastAPI backend, a LangGraph planning agent, automation tooling, an LLM router, and a deny-by-default safety layer.
+> ✨ **See my work, skills and background in one place.**
+>
+> 👉 **[portfolio-frontend-orpin-one.vercel.app](https://portfolio-frontend-orpin-one.vercel.app/)**
 
-## 🚀 Featured Projects
+---
 
-### 🤖 [AION: Desktop AI Agent](https://github.com/Aditya10507/aion-bot)
-Controls the OS through natural language. A LangGraph agent plans, executes, and replans tasks, while a deny-by-default safety layer asks for confirmation on risky actions.
-`Python` `FastAPI` `LangGraph` `PyAutoGUI` `Playwright`
+## 👨‍💻 About Me
 
-### 🎥 [Video RAG for Course Playlists](https://github.com/Aditya10507/Video-RAG)
-Ask a question about a YouTube course playlist and get a written answer plus the exact video and timestamp. Uses hybrid retrieval, reranking, and a coverage gate that refuses out-of-scope questions instead of guessing. **91 passing tests.**
-`Python` `RAG` `Hybrid Search` `Reranking` `Jina` `yt-dlp`
+- 🎓 B.Tech student graduating in **2027**
+- 🤖 Interested in **AI Engineering, Generative AI, RAG, LLM applications, and AI agents**
+- 🛠️ I enjoy connecting AI models, APIs, and retrieval systems to solve practical problems.
+- 🌱 Always learning through hands-on projects and experimentation.
 
-### 🎫 [Support Ticket Decision Assistant](https://github.com/Aditya10507/Support-Ticket-Decision-assistant)
-Takes a plain-English support ticket, retrieves the matching policy chunks, and returns a validated JSON decision (action, confidence, reason, sources). Includes JWT auth, prompt-injection guardrails, 15 pytest cases, and 20-user load tests.
-`Python` `FastAPI` `RAG` `JWT` `pytest`
+---
 
-### More projects
+## 🚀 Featured Project
 
-| Project | What it does |
-|---|---|
-| [Ledger](https://github.com/Aditya10507/Ledger) | Reconciles payment records, flags mismatches, explains them in plain English, and keeps an audit trail. |
-| [Trust-Ledger](https://github.com/Aditya10507/Trust-Ledger) | Buyer and Seller agents negotiate over multiple trust-tracked rounds, a reusable multi-agent deal-making pattern *(in progress)*. |
-| [OnGuard](https://github.com/Aditya10507/OnGuard) | Security and guardrails tooling for AI systems. |
-| [Voice RAG Assistant](https://github.com/Aditya10507/RAG) | A RAG assistant that responds to voice commands. |
-| [AI Fashion Outfit Recommender](https://github.com/Aditya10507/AI-Fashion-Outfit-Recommendation-System) | Recommends outfits based on the event and other factors. |
-| [Data Analysis Engine](https://github.com/Aditya10507/Data-Analysis-engine) | An AI agent that analyzes and visualizes datasets and extracts insights *(early work)*. |
-| [DeepDiabetic](https://github.com/Aditya10507/DeepDiabetic) | CNN-based model that identifies serious eye diseases from retinal images and reports the stage *(early work)*. |
+### 🎥 Video RAG: Question Answering Over YouTube Videos
 
-## 🧰 Skills
+A Retrieval-Augmented Generation project that helps users explore video content by asking questions and retrieving relevant context.
 
-| Area | What I work with |
-|---|---|
-| **Generative AI** | RAG, embeddings, hybrid search, reranking, prompt-injection guardrails · Qdrant, FAISS, Jina |
-| **Agents & automation** | LangGraph stateful agents, tool orchestration, MCP servers, multi-tool agents · Playwright, PyAutoGUI |
-| **Backend & APIs** | Secure async REST services, JWT auth, encrypted key vaults· Python, FastAPI, PostgreSQL, SQLite |
-| **Ship & operate** | Containerized, tested, and load-tested deployments with evals · Docker, Git/GitHub, pytest, Tauri |
+**✨ Highlights**
 
-## 🎓 Education & Certifications
+- 📥 Uses `yt-dlp` to retrieve YouTube video data.
+- 🧠 Uses the **Jina API** for embeddings.
+- 🔎 Retrieves relevant video context to support question answering.
+- ⚡ Aims to make long-form video content easier to search and understand.
 
-- **B.Tech in Data Science**, Malla Reddy College of Engineering (JNTU Hyderabad), 2023 – 2027
-- **Machine Learning Specialization**, Stanford Online & DeepLearning.AI (Coursera), Jun 2026
+**Tech stack:** Python · Retrieval-Augmented Generation (RAG) · Embeddings · Jina API · yt-dlp
 
-## 📊 GitHub Stats
+[![Video RAG Repository](https://img.shields.io/badge/View_Repository-Video--RAG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya10507/Video-RAG)
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya10507&show_icons=true&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10507&layout=compact&hide_border=true)
+---
+
+## 🧰 Technologies & Interests
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-6E40C9?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge) ![LLM Applications](https://img.shields.io/badge/LLM_Applications-2563EB?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-DB2777?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+*This list reflects my current focus and tools I've worked with; I'm continuing to deepen my skills.*
+
+---
+
+## 📊 GitHub Activity
+
+![Aditya's GitHub contribution graph](https://ghchart.rshah.org/6E40C9/Aditya10507)
+
+![GitHub profile details](https://github.com/Aditya10507/Aditya10507/raw/main/profile-summary-card-output/dracula/0-profile-details.svg) ![GitHub stats](https://github.com/Aditya10507/Aditya10507/raw/main/profile-summary-card-output/dracula/3-stats.svg)
+
+![Most committed languages](https://github.com/Aditya10507/Aditya10507/raw/main/profile-summary-card-output/dracula/2-most-commit-language.svg) ![Repos per language](https://github.com/Aditya10507/Aditya10507/raw/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=Aditya10507&hide_border=true)
+
+---
 
 ## 🤝 Let's Connect
 
-I'm happy to talk about AI engineering, LLM applications, and agents, or to hear about internship opportunities.
+I'm happy to connect with people working on AI, discuss projects, and learn from the developer community.
 
-- 🌐 Portfolio: [portfolio-frontend-orpin-one.vercel.app](https://portfolio-frontend-orpin-one.vercel.app/)
-- 💼 LinkedIn: [aditya-singh-81as22](https://linkedin.com/in/aditya-singh-81as22)
-- 📧 Email: [adityaws10507@gmail.com](mailto:adityaws10507@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-frontend-orpin-one.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-81as22) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya10507)
+
+---
+
+*Thanks for visiting my profile! ⭐ Feel free to explore my repositories.*
