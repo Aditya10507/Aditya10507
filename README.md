@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # Hi, I'm Aditya Singh 👋
@@ -6,8 +7,9 @@
 
 Building practical AI applications and learning by shipping real projects.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-orpin-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-81as22)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya10507-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditty10507)
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya10507-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya10507)
 
 </div>
 
@@ -34,9 +36,7 @@ A Retrieval-Augmented Generation project that helps users explore video content 
 
 **Tech stack:** Python · Retrieval-Augmented Generation (RAG) · Embeddings · Jina API · yt-dlp
 
-🔗 **Repository:** Replace the placeholder below with the actual repository name once you publish the project.
-
-`https://github.com/Aditya10507/Video-RAG`
+🔗 **Repository:** [Video RAG](https://github.com/Aditya10507/Video-RAG)
 
 ## 🧰 Technologies & Interests
 
@@ -59,6 +59,7 @@ A Retrieval-Augmented Generation project that helps users explore video content 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya10507&show_icons=true&hide_border=true&rank_icon=github" alt="Aditya's GitHub statistics" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya10507&layout=compact&hide_border=true" alt="Most used languages" />
 
 <br/>
@@ -71,8 +72,9 @@ A Retrieval-Augmented Generation project that helps users explore video content 
 
 I'm happy to connect with people working on AI, discuss projects, and learn from the developer community.
 
-- 💼 [LinkedIn](https://linkedin.com/in/aditya-singh-81as22)
-- 🧑‍💻 [GitHub](https://github.com/Aditya10507)
+- 🌐 **Portfolio:** [Visit My Website](https://portfolio-frontend-orpin-one.vercel.app/)
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/aditya-singh-81as22)
+- 🧑‍💻 **GitHub:** [Explore my repositories](https://github.com/Aditya10507)
 
 ---
 
@@ -81,3 +83,4 @@ I'm happy to connect with people working on AI, discuss projects, and learn from
 *Thanks for visiting my profile! ⭐ Feel free to explore my repositories.*
 
 </div>
+```
